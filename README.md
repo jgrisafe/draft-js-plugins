@@ -1,4 +1,4 @@
-# DraftJS Plugins
+# DraftJS Plugins jgrisafe fork
 
 ![Draft JS Plugins Logo](http://static.nikgraf.com/draft-js-plugins/draft-js-plugins.svg)
 
